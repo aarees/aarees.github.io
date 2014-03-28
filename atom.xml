@@ -4,7 +4,7 @@
   <title><![CDATA[Aaaron Mampilly]]></title>
   <link href="http://aarees.github.io/atom.xml" rel="self"/>
   <link href="http://aarees.github.io/"/>
-  <updated>2014-03-28T17:14:08-04:00</updated>
+  <updated>2014-03-28T18:28:52-04:00</updated>
   <id>http://aarees.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -13,6 +13,22 @@
   <generator uri="http://www.statiked.com/">Statiked</generator>
 
   <entry>
+    <title type="html"><![CDATA[Demoing project]]></title>
+    <link href="http://aarees.github.io/2014/03/28/Demoing-project.html"/>
+    <updated>2014-03-28T22:28:44+00:00</updated>
+    <id>http://aarees.github.io/2014/03/28/Demoing-project.html</id>
+    <content type="html"><![CDATA[<p>The demo post</p>
+]]></content>
+  </entry>
+<entry>
+    <title type="html"><![CDATA[This is new post]]></title>
+    <link href="http://aarees.github.io/2014/03/28/This-is-new-post.html"/>
+    <updated>2014-03-28T21:14:40+00:00</updated>
+    <id>http://aarees.github.io/2014/03/28/This-is-new-post.html</id>
+    <content type="html"><![CDATA[<p>The post to rebuild</p>
+]]></content>
+  </entry>
+<entry>
     <title type="html"><![CDATA[Another post with a different topic]]></title>
     <link href="http://aarees.github.io/2014/03/28/Another-post-with-a-different-topic.html"/>
     <updated>2014-03-28T19:45:51+00:00</updated>
