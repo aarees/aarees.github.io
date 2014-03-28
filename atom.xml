@@ -4,7 +4,7 @@
   <title><![CDATA[Aaaron Mampilly]]></title>
   <link href="http://aarees.github.io/atom.xml" rel="self"/>
   <link href="http://aarees.github.io/"/>
-  <updated>2014-03-28T18:35:27-04:00</updated>
+  <updated>2014-03-28T19:37:51-04:00</updated>
   <id>http://aarees.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -13,6 +13,14 @@
   <generator uri="http://www.statiked.com/">Statiked</generator>
 
   <entry>
+    <title type="html"><![CDATA[Manjo visiting]]></title>
+    <link href="http://aarees.github.io/2014/03/28/Manjo-visiting.html"/>
+    <updated>2014-03-28T22:36:21+00:00</updated>
+    <id>http://aarees.github.io/2014/03/28/Manjo-visiting.html</id>
+    <content type="html"><![CDATA[<p>And this is a post about him</p>
+]]></content>
+  </entry>
+<entry>
     <title type="html"><![CDATA[Demoing project]]></title>
     <link href="http://aarees.github.io/2014/03/28/Demoing-project.html"/>
     <updated>2014-03-28T22:28:44+00:00</updated>
