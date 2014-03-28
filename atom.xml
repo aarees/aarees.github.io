@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Aaaron Mampilly]]></title>
-  <link href="http://arees.github.io/atom.xml" rel="self"/>
-  <link href="http://arees.github.io/"/>
-  <updated>2014-03-28T15:45:58-04:00</updated>
-  <id>http://arees.github.io/</id>
+  <link href="http://aarees.github.io/atom.xml" rel="self"/>
+  <link href="http://aarees.github.io/"/>
+  <updated>2014-03-28T15:54:05-04:00</updated>
+  <id>http://aarees.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     <email><![CDATA[]]></email>
@@ -14,25 +14,25 @@
 
   <entry>
     <title type="html"><![CDATA[Another post with a different topic]]></title>
-    <link href="http://arees.github.io/2014/03/28/Another-post-with-a-different-topic.html"/>
+    <link href="http://aarees.github.io/2014/03/28/Another-post-with-a-different-topic.html"/>
     <updated>2014-03-28T19:45:51+00:00</updated>
-    <id>http://arees.github.io/2014/03/28/Another-post-with-a-different-topic.html</id>
+    <id>http://aarees.github.io/2014/03/28/Another-post-with-a-different-topic.html</id>
     <content type="html"><![CDATA[<p>Posted on 3:44PM</p>
 ]]></content>
   </entry>
 <entry>
     <title type="html"><![CDATA[Another post]]></title>
-    <link href="http://arees.github.io/2014/03/28/Another-post.html"/>
+    <link href="http://aarees.github.io/2014/03/28/Another-post.html"/>
     <updated>2014-03-28T19:42:32+00:00</updated>
-    <id>http://arees.github.io/2014/03/28/Another-post.html</id>
+    <id>http://aarees.github.io/2014/03/28/Another-post.html</id>
     <content type="html"><![CDATA[<p>This is yet another post</p>
 ]]></content>
   </entry>
 <entry>
     <title type="html"><![CDATA[This is a test post]]></title>
-    <link href="http://arees.github.io/2014/03/28/This-is-a-test-post.html"/>
+    <link href="http://aarees.github.io/2014/03/28/This-is-a-test-post.html"/>
     <updated>2014-03-28T19:34:36+00:00</updated>
-    <id>http://arees.github.io/2014/03/28/This-is-a-test-post.html</id>
+    <id>http://aarees.github.io/2014/03/28/This-is-a-test-post.html</id>
     <content type="html"><![CDATA[<p>There is nothing here.</p>
 ]]></content>
   </entry>
