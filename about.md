@@ -6,7 +6,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Aaaron Mampilly</title>
+        <title>Aarees</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -65,8 +65,8 @@
         <section class="container">
         <a href="">
           <div width="256" height="94">
-            <h2> Aaaron Mampilly </h2>
-            <h4> aarees </h4>
+            <h2> Aarees </h2>
+            <h4> Musings of a Pre-teen </h4>
           </div>
         </a>
         <nav>
@@ -107,13 +107,8 @@
                 <li>
                   <span class="icon-right-dir"><i>2014</i></span>
                 <ul>
-                <li><a href="http://aarees.github.io/2014/03/29/Hello-world.html">Hello world</a></li>
-<li><a href="http://aarees.github.io/2014/03/28/Manjo-visiting.html">Manjo visiting</a></li>
-<li><a href="http://aarees.github.io/2014/03/28/Demoing-project.html">Demoing project</a></li>
-<li><a href="http://aarees.github.io/2014/03/28/This-is-new-post.html">This is new post</a></li>
-<li><a href="http://aarees.github.io/2014/03/28/Another-post-with-a-different-topic.html">Another post with a different topic</a></li>
-<li><a href="http://aarees.github.io/2014/03/28/Another-post.html">Another post</a></li>
-<li><a href="http://aarees.github.io/2014/03/28/This-is-a-test-post.html">This is a test post</a></li>
+                <li><a href="http://aarees.github.io/2014/03/30/Another-Post.html">Another Post</a></li>
+<li><a href="http://aarees.github.io/2014/03/30/New-Site.html">New Site</a></li>
 
           </ul>
          </div>
