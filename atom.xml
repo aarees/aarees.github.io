@@ -4,7 +4,7 @@
   <title><![CDATA[Aarees]]></title>
   <link href="http://aarees.github.io/atom.xml" rel="self"/>
   <link href="http://aarees.github.io/"/>
-  <updated>2014-03-30T09:58:35-04:00</updated>
+  <updated>2014-03-30T09:59:47-04:00</updated>
   <id>http://aarees.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,14 +12,6 @@
   </author>
   <generator uri="http://www.statiked.com/">Statiked</generator>
 
-  <entry>
-    <title type="html"><![CDATA[This is my post]]></title>
-    <link href="http://aarees.github.io/2014/03/30/This-is-my-post.html"/>
-    <updated>2014-03-30T12:50:12+00:00</updated>
-    <id>http://aarees.github.io/2014/03/30/This-is-my-post.html</id>
-    <content type="html"><![CDATA[<p>My posts are awesome.</p>
-]]></content>
-  </entry>
-
+  
   
 </feed>
