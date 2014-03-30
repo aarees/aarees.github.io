@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Aaron Mampilly]]></title>
+  <title><![CDATA[Aarees]]></title>
   <link href="http://aarees.github.io/atom.xml" rel="self"/>
   <link href="http://aarees.github.io/"/>
-  <updated>2014-03-29T12:17:56-04:00</updated>
+  <updated>2014-03-30T09:58:35-04:00</updated>
   <id>http://aarees.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -13,43 +13,11 @@
   <generator uri="http://www.statiked.com/">Statiked</generator>
 
   <entry>
-    <title type="html"><![CDATA[]]></title>
-    <link href="http://aarees.github.io/2014/03/29/.html"/>
-    <updated>2014-03-29T16:17:47+00:00</updated>
-    <id>http://aarees.github.io/2014/03/29/.html</id>
-    <content type="html"><![CDATA[<p>hi guys!</p>
-]]></content>
-  </entry>
-<entry>
-    <title type="html"><![CDATA[]]></title>
-    <link href="http://aarees.github.io/2014/03/29/.html"/>
-    <updated>2014-03-29T16:17:31+00:00</updated>
-    <id>http://aarees.github.io/2014/03/29/.html</id>
-    <content type="html"><![CDATA[]]></content>
-  </entry>
-<entry>
-    <title type="html"><![CDATA[Introduction to the site (more stuff)]]></title>
-    <link href="http://aarees.github.io/2014/03/29/Introduction-to-the-site-(more-stuff).html"/>
-    <updated>2014-03-29T16:16:45+00:00</updated>
-    <id>http://aarees.github.io/2014/03/29/Introduction-to-the-site-(more-stuff).html</id>
-    <content type="html"><![CDATA[<p>Hello peoples around the world, this is my first blog on this new site of mine. I will be adding updates on what I’m doing and some news and stuff like that. This is actually not my real site, I have an other one that is a WIP  and it won’t be out in ac couple of months so you want to be up-to-date with site! (but it won’t be out for some months so don’t expect to come in a couple of weeks ok?)</p>
-]]></content>
-  </entry>
-<entry>
-    <title type="html"><![CDATA[Introduction to the site (more stuff)]]></title>
-    <link href="http://aarees.github.io/2014/03/29/(null).html"/>
-    <updated>2014-03-29T16:09:54+00:00</updated>
-    <id>http://aarees.github.io/2014/03/29/(null).html</id>
-    <content type="html"><![CDATA[
-<hr />
-<p>layout: post <br />
-title : <br />
-date: 2014-03-29 12:07:18 -0400 <br />
-comments: false <br />
-categories: <br />
-status : Not published <br />
-——-
-Hi guys! </p>
+    <title type="html"><![CDATA[This is my post]]></title>
+    <link href="http://aarees.github.io/2014/03/30/This-is-my-post.html"/>
+    <updated>2014-03-30T12:50:12+00:00</updated>
+    <id>http://aarees.github.io/2014/03/30/This-is-my-post.html</id>
+    <content type="html"><![CDATA[<p>My posts are awesome.</p>
 ]]></content>
   </entry>
 
