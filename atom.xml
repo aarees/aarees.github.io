@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Aarees]]></title>
-  <link href="http://aarees.github.io/atom.xml" rel="self"/>
-  <link href="http://aarees.github.io/"/>
-  <updated>2014-04-09T18:50:03-04:00</updated>
-  <id>http://aarees.github.io/</id>
+  <title><![CDATA[ComedyHUB]]></title>
+  <link href="https://www.comedyhub.io/atom.xml" rel="self"/>
+  <link href="https://www.comedyhub.io/"/>
+  <updated>2014-04-09T18:54:17-04:00</updated>
+  <id>https://www.comedyhub.io/</id>
   <author>
     <name><![CDATA[]]></name>
     <email><![CDATA[]]></email>
@@ -14,17 +14,17 @@
 
   <entry>
     <title type="html"><![CDATA[Another Post]]></title>
-    <link href="http://aarees.github.io/2014/03/30/Another-Post.html"/>
+    <link href="https://www.comedyhub.io/2014/03/30/Another-Post.html"/>
     <updated>2014-03-30T21:03:46+00:00</updated>
-    <id>http://aarees.github.io/2014/03/30/Another-Post.html</id>
+    <id>https://www.comedyhub.io/2014/03/30/Another-Post.html</id>
     <content type="html"><![CDATA[<p>We are leaving for Boston today.</p>
 ]]></content>
   </entry>
 <entry>
     <title type="html"><![CDATA[New Site]]></title>
-    <link href="http://aarees.github.io/2014/03/30/New-Site.html"/>
+    <link href="https://www.comedyhub.io/2014/03/30/New-Site.html"/>
     <updated>2014-03-30T21:02:45+00:00</updated>
-    <id>http://aarees.github.io/2014/03/30/New-Site.html</id>
+    <id>https://www.comedyhub.io/2014/03/30/New-Site.html</id>
     <content type="html"><![CDATA[<p>Hi everyone! Welcome to my new site i made! I’m going to be adding updates and news for you guys around the world! So let’s make this a fantabulous site everyone, thanks!!</p>
 ]]></content>
   </entry>
